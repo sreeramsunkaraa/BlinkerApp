@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlinkerApp</string>
+
+    <string name="make">Search with make</string>
+    <string name="model">Search with model</string>
+    <string name="year">Search with year</string>
+    <string name="details">Details</string>
+
+    <string name="search">Search</string>
+</resources>
